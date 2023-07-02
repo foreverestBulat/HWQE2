@@ -20,6 +20,7 @@ class FavoriteFragment:Fragment(R.layout.fragment_favorite) {
                 findNavController().navigate(R.id.action_favoriteFragment_to_profileFragment,
                     ProfileFragment.createBudle("Favorite")
                 )
+
             }
         }
     }

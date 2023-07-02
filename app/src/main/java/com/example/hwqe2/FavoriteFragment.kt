@@ -21,6 +21,14 @@ class FavoriteFragment:Fragment(R.layout.fragment_favorite) {
                     ProfileFragment.createBudle("Favorite")
                 )
             }
+
+
+
+
+
+
+
+
         }
     }
 
